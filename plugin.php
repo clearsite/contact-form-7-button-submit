@@ -1,12 +1,11 @@
 <?php
 /*
 	Plugin Name: Contact Form 7 - Button-submit
-	Plugin URI: $URL$
+	Plugin URI: https://github.com/clearsite/contact-form-7-button-submit
 	Description: Tweaks to CF7 to make it better HTML5 compliant
 	Author: Remon Pel
 	Version: 0.0.1
-	Author URI: http://remonpel.nl/
-	License: GPL v2 or later
+	Author URI: http://clearsite.nl/
 */
 
 // do our thing JUST after the CF7 magic happens.
